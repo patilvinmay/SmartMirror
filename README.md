@@ -7,4 +7,5 @@ Code is not very efficient and may have few bugs.<br>
 Many different libraries are used to make the program including pyqt5 and pygame.<br>
 As the Smart mirror should be reflective the background of UI is kept black.<br>
 Screenshot of UI:<br><br><br>
-<img src="IMG_20171225_220955.jpg"> </img>
+<img src="IMG_20171225_220955.jpg"> </img><br>
+You can watch more pics regarding this project but there are many irrelevant pics to.....@: https://photos.app.goo.gl/qsygO4fTfPfl1i8i2 
