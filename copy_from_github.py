@@ -11,3 +11,6 @@ os.getcwd()
 f = open("temp.py", "w")
 f.write(pycode)
 f.close()
+
+from temp import print_hi
+print_hi('Vinmay')
